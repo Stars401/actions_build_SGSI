@@ -1,7 +1,5 @@
 # actions_build_SGSI
-## 使用方法:
-```
-1. fork此仓库
+## 使用它:
 2. 编辑sgsi.json:
      rom_url: 为你的下载连接 
      rom_name: 为你下载的包名 
