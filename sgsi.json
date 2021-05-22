@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://zh.osdn.net/projects/revengeos/storage/lavender/RevengeOS-3.2-Q-OFFICIAL-lavender-20200914-0625.zip",
+  "rom_url": "https://hugeota.d.miui.com/21.5.20/miui_GINKGO_21.5.20_935d9ca865_11.0.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "pixel",
+  "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
   "version": "10",
