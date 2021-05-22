@@ -6,7 +6,7 @@
   "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
-  "version": "10",
+  "version": "11",
   "upload_transfer": true,
   "upload_release": false,
   "use_7zip": true,
