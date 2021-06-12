@@ -1,10 +1,10 @@
 {
-  "rom_url": "https://downloads.droidontime.com/dot11/pine/vanilla/dotOS-R-v5.1-pine-OFFICIAL-20210528-1238.zip",
+  "rom_url": "https://hugeota.d.miui.com/21.6.9/miui_GINKGO_21.6.9_c7d83b9829_11.0.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "Generic",
-  "light_fix": false,
+  "rom_type": "MIUI",
+  "light_fix": true,
   "bug_fix": true,
   "version": "11",
   "upload_transfer": true,
